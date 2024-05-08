@@ -13,6 +13,10 @@
 ![lexus_climate](https://github.com/jienian/CarinfoLexus/assets/45189482/bbf0ace5-f2c6-41ee-9e3f-d184d5c3e4da)
 ![lexus_boarding](https://github.com/jienian/CarinfoLexus/assets/45189482/8d8f2cb2-9999-4b65-91c4-f48b39b4a559)
 ![lexus_boarding_dialog](https://github.com/jienian/CarinfoLexus/assets/45189482/3af152ae-3f08-4e97-9aae-82d8b96e43cc)
+2.1 协议
+![协议-1](https://github.com/jienian/CarinfoLexus/assets/45189482/479c544e-59c6-4358-81a6-e6bca90b87ba)
+![协议-2](https://github.com/jienian/CarinfoLexus/assets/45189482/4c4b95fd-82a9-4f5f-b3c9-df31c3b73414)
+![协议-3](https://github.com/jienian/CarinfoLexus/assets/45189482/b5150063-1161-4e72-9c89-ab73ec36173c)
 
 
 2.See viedo
