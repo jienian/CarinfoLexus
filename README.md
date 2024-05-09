@@ -1,4 +1,5 @@
-![lexus_door_control](https://github.com/jienian/CarinfoLexus/assets/45189482/c4ba09fb-fe92-4b91-bd26-ec82138277ff)1.DevelopLexusSettingsUI 4.29-4.30
+1.DevelopLexusSettings （雷克萨斯）
+![lexus_door_control](https://github.com/jienian/CarinfoLexus/assets/45189482/c4ba09fb-fe92-4b91-bd26-ec82138277ff)
 ![2481714486660_ pic](https://github.com/jienian/CarinfoLexus/assets/45189482/a9f34cab-2e63-4692-bec1-6f4bd3790a20)
 1.1Develop Main 
 ![lexus_main](https://github.com/jienian/CarinfoLexus/assets/45189482/fb08faf7-ee1f-47ca-8180-bba6787be4fb)
@@ -17,6 +18,8 @@
 ![协议-1](https://github.com/jienian/CarinfoLexus/assets/45189482/479c544e-59c6-4358-81a6-e6bca90b87ba)
 ![协议-2](https://github.com/jienian/CarinfoLexus/assets/45189482/4c4b95fd-82a9-4f5f-b3c9-df31c3b73414)
 ![协议-3](https://github.com/jienian/CarinfoLexus/assets/45189482/b5150063-1161-4e72-9c89-ab73ec36173c)
+![image](https://github.com/jienian/CarinfoLexus/assets/45189482/0981272e-7719-4bd1-82ae-09e6ea5f5641)
+![image](https://github.com/jienian/CarinfoLexus/assets/45189482/9a944eb5-48fb-4811-81a9-a29d58d237e6)
 
 
 2.See viedo
