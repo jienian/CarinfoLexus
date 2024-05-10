@@ -25,3 +25,8 @@
 2.See viedo
 https://github.com/jienian/CarinfoLexus/assets/45189482/150ab649-0171-41be-a8df-17054bb3a37e
 
+3最终交付效果Video
+https://github.com/jienian/CarinfoLexus/assets/45189482/b7c3b7a6-5902-42eb-b6e1-8b6c340039ca
+
+
+
