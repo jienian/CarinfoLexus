@@ -2,6 +2,7 @@
 ![lexus_door_control](https://github.com/jienian/CarinfoLexus/assets/45189482/c4ba09fb-fe92-4b91-bd26-ec82138277ff)
 ![2481714486660_ pic](https://github.com/jienian/CarinfoLexus/assets/45189482/a9f34cab-2e63-4692-bec1-6f4bd3790a20)
 1.1Develop Main 
+![image](https://github.com/jienian/CarinfoLexus/assets/45189482/cc760dbe-94ef-43c7-bcc9-8e44fe30f9fd)
 ![lexus_main](https://github.com/jienian/CarinfoLexus/assets/45189482/fb08faf7-ee1f-47ca-8180-bba6787be4fb)
 1.2 Lisghts Dialog 
 ![lexus_lights_dialog](https://github.com/jienian/CarinfoLexus/assets/45189482/26261044-cefd-42fe-9b45-b3be11fd7217)
